@@ -8,4 +8,10 @@ or components on a single webpage without refreshing it.
 TypeScript is a superset of JavaScript that offers excellent consistency.
 It is highly recommended, as it provides some syntactic sugar and makes the code base
 more comfortable to understand and maintain. Ultimately, TypeScript code compiles down
-to JavaScript that can run efficiently in any environment. 
+to JavaScript that can run efficiently in any environment.
+
+3. What is data binding? Which type of data binding does Angular deploy?
+Data binding is a phenomenon that allows any internet user to manipulate Web page elements using a Web browser.
+It uses dynamic HTML and does not require complex scripting or programming. We use data binding in web pages that
+contain interactive components such as forms, calculators, tutorials, and games. Incremental display of a webpage makes
+data binding convenient when pages have an enormous amount of data.
