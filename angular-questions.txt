@@ -1,0 +1,5 @@
+1. What is Angular?
+Angular is a framework for building dynamic web applications.
+It was introduced by Google and is widely used to create single-page applications (SPAs),
+which means you can load different views
+or components on a single webpage without refreshing it.
