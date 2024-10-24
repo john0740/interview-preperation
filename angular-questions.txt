@@ -3,3 +3,9 @@ Angular is a framework for building dynamic web applications.
 It was introduced by Google and is widely used to create single-page applications (SPAs),
 which means you can load different views
 or components on a single webpage without refreshing it.
+
+2. What is TypeScript?
+TypeScript is a superset of JavaScript that offers excellent consistency.
+It is highly recommended, as it provides some syntactic sugar and makes the code base
+more comfortable to understand and maintain. Ultimately, TypeScript code compiles down
+to JavaScript that can run efficiently in any environment. 
